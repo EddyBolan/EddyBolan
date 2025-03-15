@@ -31,6 +31,9 @@ To run this project, ensure you have **Python 3.x** installed.
    ```bash
    git clone https://github.com/EddyBolan/codingTasks.git
    cd codingTasks
+2. **Run the Python script**
+python email_task.py
+
 ## **Usage**
 Once the program starts, you will see a menu with the following options:
 Read an email – Lists all emails, allowing the user to select and read one.
